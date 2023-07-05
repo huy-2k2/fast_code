@@ -1,0 +1,15 @@
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\bin\Debug\net6.0\Misa.FastCode.Dl.deps.json
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\bin\Debug\net6.0\Misa.FastCode.Dl.dll
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\bin\Debug\net6.0\Misa.FastCode.Dl.pdb
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\bin\Debug\net6.0\Misa.FastCode.Common.dll
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\bin\Debug\net6.0\Misa.FastCode.Common.pdb
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.csproj.AssemblyReference.cache
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.AssemblyInfoInputs.cache
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.AssemblyInfo.cs
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.csproj.CoreCompileInputs.cache
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.csproj.CopyComplete
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.dll
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\refint\Misa.FastCode.Dl.dll
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\Misa.FastCode.Dl.pdb
+C:\Users\84365\Desktop\Misa.FastCode.Sln\Misa.FastCode.Dl\obj\Debug\net6.0\ref\Misa.FastCode.Dl.dll

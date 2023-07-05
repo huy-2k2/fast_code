@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mr75ujDJj1i6Vsa5kzOZ/ztvgr1SH4TiAg1U08LTZ2gSuSbQ7IcQUIJcMavK2Ilr29Ar9c5m0d0TYI3hesTASw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84365\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

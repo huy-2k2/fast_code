@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Misa.FastCode.Common/1.0.0": {
+        "runtime": {
+          "Misa.FastCode.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Misa.FastCode.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
