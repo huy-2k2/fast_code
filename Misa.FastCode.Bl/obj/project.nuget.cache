@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TUJzm+hMnlDpZASc9U3j3gDmQMTGsw8Bh4yaQbq3aRlefg9lSJkG3falyI3yHflQ4sCA3GPh5YOLHyHzu58fyg==",
+  "dgSpecHash": "+coWzCXWX3f8weptCjHDx49mpBovsbUJkK37HUeULxfxQaj69j6Qosp1Sw01Qs1r7FxT9guSltqveIlFJUAixA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj",
+  "projectFilePath": "D:\\fast_code\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\84365\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\84365\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -115,7 +115,10 @@
     "C:\\Users\\84365\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\84365\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\84365\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\84365\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512"
+    "C:\\Users\\84365\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
   ],
   "logs": []
 }

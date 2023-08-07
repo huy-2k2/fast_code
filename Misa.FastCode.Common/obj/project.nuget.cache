@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HVdud+b1gR/MpxxNNTX53NgXssi/y19tbpl2pn2vqYD0RUvU8AUn4o+QlBu28xC03mKglmjlTumKAECV7P1vPA==",
+  "dgSpecHash": "la4qxCWF3r3uTyQCWr+uqEDm3F5IT9uvb+LQbN2Bbvyz4tbAbqwjNqe7RcrV+ozYHrTBVFGSM8lXR78qX1b/jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\84365\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

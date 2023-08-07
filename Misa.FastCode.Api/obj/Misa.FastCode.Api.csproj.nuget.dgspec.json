@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj": {}
+    "D:\\fast_code\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj": {
+    "D:\\fast_code\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj",
+        "projectUniqueName": "D:\\fast_code\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj",
         "projectName": "Misa.FastCode.Api",
-        "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj",
+        "projectPath": "D:\\fast_code\\Misa.FastCode.Api\\Misa.FastCode.Api.csproj",
         "packagesPath": "C:\\Users\\84365\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Api\\obj\\",
+        "outputPath": "D:\\fast_code\\Misa.FastCode.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84365\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj": {
-                "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj"
+              "D:\\fast_code\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj": {
+                "projectPath": "D:\\fast_code\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj"
               },
-              "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
-                "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj"
+              "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
+                "projectPath": "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj"
               }
             }
           }
@@ -67,6 +68,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -75,18 +94,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj": {
+    "D:\\fast_code\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj",
+        "projectUniqueName": "D:\\fast_code\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj",
         "projectName": "Misa.FastCode.Bl",
-        "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj",
+        "projectPath": "D:\\fast_code\\Misa.FastCode.Bl\\Misa.FastCode.Bl.csproj",
         "packagesPath": "C:\\Users\\84365\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Bl\\obj\\",
+        "outputPath": "D:\\fast_code\\Misa.FastCode.Bl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84365\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,11 +122,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
-                "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj"
+              "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
+                "projectPath": "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj"
               },
-              "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj": {
-                "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj"
+              "D:\\fast_code\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj": {
+                "projectPath": "D:\\fast_code\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj"
               }
             }
           }
@@ -154,23 +173,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
+    "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj",
+        "projectUniqueName": "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj",
         "projectName": "Misa.FastCode.Common",
-        "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj",
+        "projectPath": "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj",
         "packagesPath": "C:\\Users\\84365\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\obj\\",
+        "outputPath": "D:\\fast_code\\Misa.FastCode.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84365\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,23 +242,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj": {
+    "D:\\fast_code\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj",
+        "projectUniqueName": "D:\\fast_code\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj",
         "projectName": "Misa.FastCode.Dl",
-        "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj",
+        "projectPath": "D:\\fast_code\\Misa.FastCode.Dl\\Misa.FastCode.Dl.csproj",
         "packagesPath": "C:\\Users\\84365\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Dl\\obj\\",
+        "outputPath": "D:\\fast_code\\Misa.FastCode.Dl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84365\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -242,8 +289,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
-                "projectPath": "C:\\Users\\84365\\Desktop\\Misa.FastCode.Sln\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj"
+              "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj": {
+                "projectPath": "D:\\fast_code\\Misa.FastCode.Common\\Misa.FastCode.Common.csproj"
               }
             }
           }
@@ -282,12 +329,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
